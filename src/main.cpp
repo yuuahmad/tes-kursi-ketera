@@ -5,7 +5,7 @@ kode ini diupload ke arduino nano dan dengan komunikasi serialnya, arduino ini a
 ke laptop untuk selanjutnya diolah, divisualisasi, dan disimpan
 
 anda dapat melihat kode ini di github saya (masih publik) di
-
+https://github.com/yuuahmad/tes-kursi-ketera
 */
 
 // the setup function runs once when you press reset or power the board
