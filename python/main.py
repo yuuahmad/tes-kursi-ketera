@@ -1,0 +1,1 @@
+print("hai dunia apa kabar kalian?")
